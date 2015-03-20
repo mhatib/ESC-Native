@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ESCgame</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_skill">skillActivity</string>
+    <string name="editText">00:10</string>
+    <string name="attack1">Freeze 3 random opponent blocks</string>
+</resources>
